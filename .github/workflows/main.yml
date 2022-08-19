@@ -24,4 +24,4 @@ jobs:
           publish_on_merge: true 
           application_id: e106b91f-b68f-4c42-aa92-cbc66ba07efa 
     env:  
-      GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      GITHUB_TOKEN: ${{secrets.TOKEN}}
